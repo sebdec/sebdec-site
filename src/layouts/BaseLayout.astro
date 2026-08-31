@@ -1,4 +1,5 @@
 ---
+import Analytics from '@vercel/analytics/astro';
 import '../styles/global.css';
 
 interface Props {
@@ -25,6 +26,37 @@ const { title, description } = Astro.props;
 			href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap"
 			rel="stylesheet"
 		/>
+		<script is:inline>
+			(() => {
+				const storageKey = 'sebdec.analytics.disabled';
+				const url = new URL(window.location.href);
+				const analyticsPreference = url.searchParams.get('analytics');
+
+				try {
+					if (analyticsPreference === 'off') {
+						localStorage.setItem(storageKey, 'true');
+					} else if (analyticsPreference === 'on') {
+						localStorage.removeItem(storageKey);
+					}
+				} catch {
+					// Keep analytics enabled when browser storage is unavailable.
+				}
+
+				if (analyticsPreference === 'off' || analyticsPreference === 'on') {
+					url.searchParams.delete('analytics');
+					history.replaceState({}, '', `${url.pathname}${url.search}${url.hash}`);
+				}
+
+				window.webAnalyticsBeforeSend = (event) => {
+					try {
+						return localStorage.getItem(storageKey) === 'true' ? null : event;
+					} catch {
+						return event;
+					}
+				};
+			})();
+		</script>
+		<Analytics />
 		<title>{title}</title>
 	</head>
 	<body>
