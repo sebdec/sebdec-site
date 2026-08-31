@@ -1,0 +1,260 @@
+:root {
+	color-scheme: dark;
+	--background: #282c35;
+	--surface: #22262e;
+	--text: rgba(255, 255, 255, 0.88);
+	--muted: rgba(255, 255, 255, 0.58);
+	--accent: #7db7ff;
+	--content-width: 45rem;
+	font-family: 'Montserrat', Arial, sans-serif;
+	font-synthesis: none;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	margin: 0;
+	min-width: 20rem;
+	background: var(--background);
+	color: var(--text);
+	font-size: 1rem;
+	line-height: 1.7;
+	-webkit-font-smoothing: antialiased;
+}
+
+a {
+	color: inherit;
+	text-decoration-color: rgba(125, 183, 255, 0.45);
+	text-decoration-thickness: 0.08em;
+	text-underline-offset: 0.22em;
+}
+
+a:hover {
+	color: var(--accent);
+	text-decoration-color: var(--accent);
+}
+
+a:focus-visible {
+	outline: 0.125rem solid var(--accent);
+	outline-offset: 0.3rem;
+	border-radius: 0.1rem;
+}
+
+.site-shell {
+	width: min(calc(100% - 2.5rem), 43rem);
+	margin: 0 auto;
+	padding: 2.25rem 0 3rem;
+}
+
+.site-header {
+	padding-bottom: 3.75rem;
+}
+
+.identity {
+	font-size: 0.78rem;
+	font-weight: 600;
+	letter-spacing: 0.01em;
+	text-decoration: none;
+}
+
+.eyebrow {
+	color: var(--text);
+	font-size: 0.74rem;
+	font-weight: 600;
+	letter-spacing: 0.01em;
+}
+
+.intro {
+	padding-bottom: 3.5rem;
+}
+
+.intro h1 {
+	margin: 0 0 0.65rem;
+	font-size: clamp(1.35rem, 3vw, 1.65rem);
+	font-weight: 600;
+	letter-spacing: -0.02em;
+	line-height: 1.35;
+}
+
+.intro h1 span {
+	color: transparent;
+	background: linear-gradient(105deg, var(--accent), #b9d8ff);
+	background-clip: text;
+	-webkit-background-clip: text;
+}
+
+.intro p {
+	margin: 0;
+	font-size: clamp(0.9rem, 1.6vw, 0.98rem);
+	line-height: 1.7;
+	letter-spacing: -0.01em;
+}
+
+.section {
+	padding: 1.75rem 0 2rem;
+}
+
+.section h2 {
+	margin: 0 0 1.35rem;
+}
+
+.entry {
+	display: block;
+	text-decoration: none;
+	transform: scale(1);
+	transform-origin: left center;
+	transition:
+		transform 200ms ease-in-out,
+		opacity 200ms linear 400ms;
+	will-change: transform;
+}
+
+.entries .entry + .entry {
+	margin-top: 2rem;
+	padding-top: 2rem;
+}
+
+.entry-copy {
+	min-width: 0;
+}
+
+.entry-title {
+	display: inline-flex;
+	align-items: baseline;
+	color: var(--accent);
+}
+
+.entry h3 {
+	margin: 0;
+	font-size: clamp(1.15rem, 2.4vw, 1.35rem);
+	font-weight: 600;
+	letter-spacing: -0.015em;
+}
+
+.entry p {
+	margin: 0;
+	color: var(--muted);
+}
+
+.entry time {
+	display: block;
+	margin: 0.15rem 0 0.05rem;
+	color: var(--muted);
+	font-size: 0.78rem;
+}
+
+.entry:hover .entry-title {
+	color: #a7ccff;
+}
+
+.entry:hover {
+	transform: scale(1.005);
+}
+
+.entry:active {
+	transform: scale(1);
+}
+
+.site-footer {
+	padding: 1.75rem 0 0;
+	color: var(--muted);
+	font-size: 0.62rem;
+	line-height: 1.6;
+}
+
+.site-footer p {
+	margin: 0;
+}
+
+.social-links {
+	display: flex;
+	gap: 1rem;
+	margin-bottom: 0.9rem;
+}
+
+.social-links a {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	color: var(--muted);
+	text-decoration: none;
+	transition: color 120ms ease;
+}
+
+.social-links a:hover {
+	color: var(--accent);
+}
+
+.post {
+	padding-bottom: 2rem;
+}
+
+.post-header {
+	margin-bottom: 3rem;
+}
+
+.post-header h1 {
+	margin: 0 0 0.5rem;
+	font-size: clamp(1.75rem, 5vw, 2.5rem);
+	font-weight: 600;
+	letter-spacing: -0.035em;
+	line-height: 1.2;
+}
+
+.post-header time {
+	color: var(--muted);
+	font-size: 0.78rem;
+}
+
+.post-content {
+	font-size: clamp(0.95rem, 1.6vw, 1rem);
+}
+
+.post-content h2 {
+	margin: 3rem 0 0.85rem;
+	color: var(--accent);
+	font-size: clamp(1.15rem, 2.4vw, 1.35rem);
+	font-weight: 600;
+	letter-spacing: -0.02em;
+	line-height: 1.35;
+}
+
+.post-content p {
+	margin: 0 0 1rem;
+}
+
+.post-content strong {
+	font-weight: 600;
+}
+
+@media (max-width: 38rem) {
+	.site-shell {
+		width: min(calc(100% - 2rem), var(--content-width));
+		padding-top: 1.5rem;
+	}
+
+	.site-header {
+		padding-bottom: 3rem;
+	}
+}
+
+@media (prefers-reduced-motion: reduce) {
+	html {
+		scroll-behavior: auto;
+	}
+
+	.entry {
+		transition: none;
+	}
+
+	.entry:hover,
+	.entry:active {
+		transform: none;
+	}
+}
