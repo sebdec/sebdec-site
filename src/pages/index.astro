@@ -1,0 +1,64 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { Github, Strava } from 'simple-icons-astro';
+import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons';
+
+const [linkedinWidth, linkedinHeight, , , linkedinPath] = faLinkedinIn.icon;
+---
+
+<BaseLayout
+	title="Sébastien Decrême | Product & Technology"
+	description="Sébastien Decrême writes about product, technology, architecture, security and engineering teams."
+>
+	<section class="intro" aria-labelledby="intro-title">
+		<h1 id="intro-title">Hey, I am <span>Sébastien Decrême</span> 👋</h1>
+		<p>
+			I'm a hands-on CTPO solving problems, building useful software and organizing teams. Outside
+			work, you'll find me ultra-trail running or thru-hiking.
+		</p>
+	</section>
+
+	<section class="section entries" aria-label="Selected work">
+		<a class="entry" href="https://pct.sebdec.com" target="_blank" rel="noopener noreferrer">
+			<div class="entry-copy">
+				<div class="entry-title">
+					<h3>Pacific Crest Trail Journal</h3>
+				</div>
+				<time datetime="2026-09">September 2026</time>
+				<p>Hiking from Mexico to Canada</p>
+			</div>
+		</a>
+		<a class="entry" href="/blog/what-i-learned-as-cto-cofounder">
+			<div class="entry-copy">
+				<div class="entry-title">
+					<h3>Learnings as CTO cofounder at Tomorro</h3>
+				</div>
+				<time datetime="2026-04">April 2026</time>
+				<p>Retrospective</p>
+			</div>
+		</a>
+	</section>
+
+	<footer class="site-footer">
+		<nav class="social-links" aria-label="Social profiles">
+			<a href="https://github.com/sebdec" aria-label="GitHub" title="GitHub">
+				<Github size={18} fill="currentColor" aria-hidden="true" />
+			</a>
+			<a href="https://www.linkedin.com/in/sebdec/" aria-label="LinkedIn" title="LinkedIn">
+				<svg
+					width="18"
+					height="18"
+					viewBox={`0 0 ${linkedinWidth} ${linkedinHeight}`}
+					fill="currentColor"
+					aria-hidden="true"
+				>
+					<path d={linkedinPath as string}></path>
+				</svg>
+			</a>
+			<a href="https://www.strava.com/athletes/29199412" aria-label="Strava" title="Strava">
+				<Strava size={18} fill="currentColor" aria-hidden="true" />
+			</a>
+		</nav>
+		<p>© 2026 Sebdec</p>
+	</footer>
+</BaseLayout>
