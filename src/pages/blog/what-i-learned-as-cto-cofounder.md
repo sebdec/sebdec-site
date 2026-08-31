@@ -6,9 +6,11 @@ date: April 2026
 dateValue: 2026-04
 ---
 
-For almost 7 years, I built Tomorro, a contract management platform, as cofounder and CTO.
+For almost 7 years, I built Tomorro, a contract management platform, as its cofounder and CTO.
 
-The experience changed me. I grew, learned a lot and shared the journey with people I loved working with. These are some of the lessons that stayed with me.
+Cofounding made the company a permanent subject. New problems appeared every day and many had little to do with technology. That intensity was also what made the experience exciting. I grew, learned a lot and shared the journey with people I loved working with.
+
+These are some of the lessons that stayed with me.
 
 ## The CTO role must keep changing
 
@@ -18,61 +20,39 @@ At first, the CTO builds the product (back then, without AI). With the first eng
 
 What works with 1 person no longer works with 5. What works with 5 no longer works with 25. Each stage requires redesigning the organization and redefining the CTO role before it becomes a bottleneck.
 
-## Cofounding is an adventure
+## Organizations must learn to change
 
-The company is always somewhere in your mind. New subjects appear every day and many have little to do with technology.
+Some of the most expensive debt sits outside the code. It accumulates when roles are unclear, practices no longer fit the team or important decisions remain vague, delayed or poorly shared.
 
-That is also what makes cofounding exciting. The responsibility is hard to share completely, so surrounding yourself well matters: people inside the company who take real ownership and peers outside who help you step back.
+An organization cannot wait until everything breaks before it changes. It needs to test new ways of working, observe what happens and adjust. Constant change can exhaust a team, so the goal is not endless reorganization. Each change needs a reason, a sustainable pace and space for people to participate.
 
-## The biggest debt is not always technical
+People should help shape change rather than simply endure it.
 
-Organizational debt grows when roles are unclear or practices no longer fit the team. Decision debt grows when important choices remain vague, delayed or poorly shared.
+Change also needs direction. A technical vision only works when it is anchored in the company vision. Both need to be repeated until they become shared context. When the team helps shape the strategy, clear ownership gives experts room to create, test and take initiative.
 
-Both can slow the company down more than technical debt and neither can be fixed through refactoring.
+## Solve problems, do not just surface them
 
-## Organizations need to stay in motion
+A CTO is often the first to see constraints and risks. The job is not to pass them on unchanged. It is to turn them into options, make trade-offs clear and find a path forward.
 
-An organization cannot wait until everything stops working before it changes. It needs to test new ways of working, observe what happens and adjust.
+Architecture, security and quality still matter. The difference is whether those principles help the company move or simply stop it.
 
-Constant change can also exhaust a team. The goal is not endless reorganization or change for its own sake. Changes need a reason, a sustainable pace and space for people to participate.
-
-People should help shape change rather than simply endure it. A team that learns to experiment is less afraid to question what no longer works.
-
-## Autonomy starts with a shared vision
-
-A vision has to be repeated until it becomes common context. The team should help shape the strategy that leads to it.
-
-The CTO role is then to give experts room to create, test and challenge. Clear ownership and measurable goals encourage initiative without turning every decision into an approval.
-
-## Be an enabler, not a blocker
-
-At the beginning, over-rationalizing can slow everything down. The company has to move before every question has a perfect answer.
-
-The first reflex should be to find a way forward, not only expose constraints. That does not mean abandoning architecture, security or quality. It means choosing trade-offs consciously and preventing accidental debt.
-
-## Data should guide decisions
-
-Every meaningful initiative needs a way to measure its impact. Technical metrics need to be collected, understood and actually used.
-
-Many kinds of data can help teams make better decisions as long as access and confidentiality are controlled.
-
-AI evaluations follow the same rule as any other production initiative. Quality, cost, latency, reliability and user impact must be measurable.
-
-## Stay close to the product and customers
+## Stay close to reality
 
 The CTO role cannot be performed only through architecture, metrics and management. It requires staying close to how the product is used, the problems customers face and the reality of the teams operating it.
 
+Data should guide decisions. Every meaningful initiative needs a way to measure its impact and technical metrics need to be understood and used. Many kinds of data can help as long as access and confidentiality are controlled.
+
 This becomes even more important with AI. Building faster also makes it easier to build the wrong thing faster. As producing software becomes easier, understanding what should be built becomes more valuable.
 
-## AI changes how software is built
+## AI changes the people and the system
 
 AI changes who can build products, how teams are organized and how software is produced. Smaller teams can do more and non-technical people can participate more directly.
 
 Teams need to experiment with new roles, new responsibilities and a development lifecycle adapted to this way of working. The work is moving from writing code towards orchestrating how it is produced.
 
-Explicit context, clear guidelines and expert technical review become more important, not less. Systems and practices need to work for both humans and agents.
+That requires strong foundations. Explicit context, clear guidelines, evaluations and expert technical review become more important, not less. Quality, cost, latency, reliability and user impact must remain measurable.
 
-This change is also personal. It asks everyone to stay curious, question how they work and step back from their habits. The CTO role is to create space to learn, share practices, experiment and help the team adapt.
+The change is personal too. It asks everyone to stay curious, question how they work and step back from their habits. The CTO role is to create space to learn, share practices, experiment and help the team adapt.
 
 AI should extend judgment, not replace it. Running out of tokens should never mean running out of ideas or the ability to build.
 
