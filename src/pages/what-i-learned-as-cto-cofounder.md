@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/PostLayout.astro
+layout: ../layouts/PostLayout.astro
 title: Learnings as CTO cofounder at Tomorro
 description: Lessons from almost 7 years building Tomorro as cofounder and CTO.
 date: April 2026
