@@ -10,21 +10,24 @@ For almost 7 years, I built Tomorro, a contract management platform, as cofounde
 
 The experience changed me. I grew, learned a lot and shared the journey with people I loved working with. I learned these lessons by doing, from the people around me, from my team and sometimes by getting things wrong. These are the ones that stayed with me.
 
-## In this post
-
-- [Building a company is an adventure](#building-a-company-is-an-adventure)
-- [Your role must keep evolving](#your-role-must-keep-evolving)
-- [Keep running experiments](#keep-running-experiments)
-- [Clarity is key](#clarity-is-key)
-- [Make room for the team](#make-room-for-the-team)
-- [Build a strong tech culture](#build-a-strong-tech-culture)
-- [Stay close to customers](#stay-close-to-customers)
-- [Embrace AI without overreacting](#embrace-ai-without-overreacting)
-- [Be an enabler, not a blocker](#be-an-enabler-not-a-blocker)
-- [Celebrate the wins](#celebrate-the-wins)
-- [Data should guide decisions](#data-should-guide-decisions)
-- [Do not avoid difficult conversations or decisions](#do-not-avoid-difficult-conversations-or-decisions)
-- [There is always another finish line](#there-is-always-another-finish-line)
+<nav class="post-toc" aria-labelledby="post-toc-title">
+	<h2 id="post-toc-title">In this post</h2>
+	<ul>
+		<li><a href="#building-a-company-is-an-adventure">Building a company is an adventure</a></li>
+		<li><a href="#your-role-must-keep-evolving">Your role must keep evolving</a></li>
+		<li><a href="#keep-running-experiments">Keep running experiments</a></li>
+		<li><a href="#clarity-is-key">Clarity is key</a></li>
+		<li><a href="#make-room-for-the-team">Make room for the team</a></li>
+		<li><a href="#build-a-strong-tech-culture">Build a strong tech culture</a></li>
+		<li><a href="#stay-close-to-customers">Stay close to customers</a></li>
+		<li><a href="#embrace-ai-without-overreacting">Embrace AI without overreacting</a></li>
+		<li><a href="#be-an-enabler-not-a-blocker">Be an enabler, not a blocker</a></li>
+		<li><a href="#celebrate-the-wins">Celebrate the wins</a></li>
+		<li><a href="#data-should-guide-decisions">Data should guide decisions</a></li>
+		<li><a href="#do-not-avoid-difficult-conversations-or-decisions">Do not avoid difficult conversations or decisions</a></li>
+		<li><a href="#there-is-always-another-finish-line">There is always another finish line</a></li>
+	</ul>
+</nav>
 
 ## Building a company is an adventure
 
