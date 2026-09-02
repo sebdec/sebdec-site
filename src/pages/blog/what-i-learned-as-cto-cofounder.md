@@ -190,4 +190,4 @@ Leaving Tomorro felt like finishing an ultra-trail. You cross the line exhausted
 
 The next morning, you sign up for another one.
 
-My next one was the [Pacific Crest Trail](https://pct.sebdec.com?utm_source=sebdec&utm_medium=referral&utm_campaign=cto-learnings).
+My next one was the [Pacific Crest Trail](https://pct.sebdec.com).
