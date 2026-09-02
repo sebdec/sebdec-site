@@ -262,11 +262,6 @@ a:focus-visible {
 	color: var(--accent);
 }
 
-.post-toc a[aria-current='location'] {
-	color: var(--accent);
-	font-weight: 500;
-}
-
 .post-content p {
 	margin: 0 0 1rem;
 }
