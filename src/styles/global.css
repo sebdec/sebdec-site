@@ -262,6 +262,11 @@ a:focus-visible {
 	color: var(--accent);
 }
 
+.post-toc a[aria-current='location'] {
+	color: var(--accent);
+	font-weight: 500;
+}
+
 .post-content p {
 	margin: 0 0 1rem;
 }
@@ -277,7 +282,7 @@ a:focus-visible {
 		float: left;
 		width: 14rem;
 		max-height: calc(100vh - 4rem);
-		margin: -14rem 0 0 -17rem;
+		margin: -11.75rem 0 0 -17rem;
 		overflow-y: auto;
 	}
 }

@@ -8,27 +8,27 @@ dateValue: 2026-04
 
 For almost 7 years, I built Tomorro, a contract management platform, as cofounder and CTO.
 
-The experience changed me. I grew, learned a lot and shared the journey with people I loved working with. I learned these lessons by doing, from the people around me, from my team and sometimes by getting things wrong. These are the ones that stayed with me.
+The experience changed me. I grew, learned a lot and shared the journey with people I loved working with. I learned these lessons by doing, from the people around me, from my team and sometimes by getting things wrong. These are the ones that stayed with me (in no particular order).
 
 <nav class="post-toc" aria-label="Table of contents">
 	<ol>
-		<li><a href="#building-a-company-is-an-adventure">Building a company is an adventure</a></li>
-		<li><a href="#your-role-must-keep-evolving">Your role must keep evolving</a></li>
-		<li><a href="#keep-running-experiments">Keep running experiments</a></li>
-		<li><a href="#clarity-is-key">Clarity is key</a></li>
-		<li><a href="#make-room-for-the-team">Make room for the team</a></li>
-		<li><a href="#build-a-strong-tech-culture">Build a strong tech culture</a></li>
-		<li><a href="#stay-close-to-customers">Stay close to customers</a></li>
-		<li><a href="#embrace-ai-without-overreacting">Embrace AI without overreacting</a></li>
-		<li><a href="#be-an-enabler-not-a-blocker">Be an enabler, not a blocker</a></li>
-		<li><a href="#celebrate-the-wins">Celebrate the wins</a></li>
-		<li><a href="#data-should-guide-decisions">Data should guide decisions</a></li>
-		<li><a href="#do-not-avoid-difficult-conversations-or-decisions">Do not avoid difficult conversations or decisions</a></li>
-		<li><a href="#there-is-always-another-finish-line">There is always another finish line</a></li>
+		<li><a href="#1-building-a-company-is-an-adventure">Building a company is an adventure</a></li>
+		<li><a href="#2-your-role-must-keep-evolving">Your role must keep evolving</a></li>
+		<li><a href="#3-keep-running-experiments">Keep running experiments</a></li>
+		<li><a href="#4-clarity-is-key">Clarity is key</a></li>
+		<li><a href="#5-make-room-for-the-team">Make room for the team</a></li>
+		<li><a href="#6-build-a-strong-tech-culture">Build a strong tech culture</a></li>
+		<li><a href="#7-stay-close-to-customers">Stay close to customers</a></li>
+		<li><a href="#8-embrace-ai-without-overreacting">Embrace AI without overreacting</a></li>
+		<li><a href="#9-be-an-enabler-not-a-blocker">Be an enabler, not a blocker</a></li>
+		<li><a href="#10-celebrate-the-wins">Celebrate the wins</a></li>
+		<li><a href="#11-data-should-guide-decisions">Data should guide decisions</a></li>
+		<li><a href="#12-do-not-avoid-difficult-conversations-or-decisions">Do not avoid difficult conversations or decisions</a></li>
+		<li><a href="#13-there-is-always-another-finish-line">There is always another finish line</a></li>
 	</ol>
 </nav>
 
-## Building a company is an adventure
+## 1. Building a company is an adventure
 
 And I loved it. It is demanding, all-consuming and exciting. The company is always somewhere in your mind. Every day brings a new subject and many have little to do with tech. That variety is part of what makes the adventure so interesting.
 
@@ -40,7 +40,7 @@ That energy needs somewhere to go. For me, running was a way to clear my head an
 
 The responsibility is hard to share completely, so surrounding yourself well matters: people inside the company who take real ownership and peers outside who help you step back.
 
-## Your role must keep evolving
+## 2. Your role must keep evolving
 
 At first, the CTO builds the product (back then, without AI). With the first engineers, the role becomes technical leadership. As the team grows, it shifts towards management, organizational strategy and alignment with product and business.
 
@@ -50,7 +50,7 @@ What works with 1 person no longer works with 5. What works with 5 no longer wor
 
 You also need to know when to lift your head. Staying close to the details matters but the role is no longer only to solve today's technical problems. It is to see what the company will need next and help the team prepare for it.
 
-## Keep running experiments
+## 3. Keep running experiments
 
 Keeping things as they are is more comfortable. It avoids friction and creates a sense of calm. But comfort is not progress.
 
@@ -70,7 +70,7 @@ This mindset has to become part of the culture. People should feel encouraged to
 
 Change still needs to be handled with care. A reorganization can create fatigue and a product change can worry customers. Explain why it is happening, prepare people and give them room to participate. Keep the company moving without making every change feel like a new crisis.
 
-## Clarity is key
+## 4. Clarity is key
 
 ### Build a shared language
 
@@ -90,7 +90,7 @@ Responsibilities need the same clarity. We introduced a RACI and kept updating i
 
 Revisiting it together helped surface misunderstandings, align expectations and give people the confidence to act without constantly asking for permission.
 
-## Make room for the team
+## 5. Make room for the team
 
 The best initiatives often come from the experts closest to the problems. Encourage them, give them visibility and make it safe to propose something that was not part of the original plan.
 
@@ -98,7 +98,7 @@ Trust people with real responsibility and delegate outcomes, not only tasks. Giv
 
 Autonomy does not mean stepping away completely. Stay available, provide support and make ownership explicit without turning every decision into an approval.
 
-## Build a strong tech culture
+## 6. Build a strong tech culture
 
 A strong tech culture is not defined by a stack, perks or a list of values. It is what the team does by default when no one is watching. It comes from repeated behaviors: trust, ownership, curiosity, knowledge sharing and high standards.
 
@@ -128,7 +128,7 @@ What leaders encourage, reward and tolerate becomes the culture. It cannot be wr
 
 Security has to be part of that culture too. Protecting customer data is everyone's responsibility. Teams need clear rules, regular education and the confidence to raise concerns early. Security works better as a shared habit than as a final approval gate.
 
-## Stay close to customers
+## 7. Stay close to customers
 
 Customers evolve. Their tools, expectations and problems evolve with them. Understanding them once is not enough.
 
@@ -136,7 +136,7 @@ Talk to them regularly, listen to the words they use and watch how they actually
 
 Go beyond demos and support tickets. Use their tools, understand their workflows and experience the friction around your product. The closer you get to their daily reality, the clearer the real problem becomes.
 
-## Embrace AI without overreacting
+## 8. Embrace AI without overreacting
 
 I will not repeat that AI is transforming technology, organizations, roles and individual ways of working. That is already clear and the change will only accelerate.
 
@@ -154,7 +154,7 @@ The same principle applies again: be an enabler, not a blocker. Create safe ways
 
 AI makes it possible to build faster. It also makes it easier to build the wrong thing faster. It should extend judgment, not replace it. Running out of tokens should never mean running out of ideas or the ability to build.
 
-## Be an enabler, not a blocker
+## 9. Be an enabler, not a blocker
 
 I had to repeat this to myself again and again. At the beginning, over-rationalizing can slow everything down. The company has to move before every question has a perfect answer.
 
@@ -162,13 +162,13 @@ The first reflex should be to find a way forward, not only expose constraints. T
 
 Being an enabler does not mean saying yes to everything. It means helping the company move while staying true to the principles that matter.
 
-## Celebrate the wins
+## 10. Celebrate the wins
 
 This was probably one of my weaknesses. I would reach a milestone and immediately start thinking about the next one. I did not take enough time to feel proud of what we had achieved or create momentum around it.
 
 Some people do not need to pause after a success but others do. Leaders should not assume that everyone experiences achievement in the same way. Celebrating recognizes the effort, gives people energy and creates a shared sense of progress. Make time for it. After so much effort and commitment, people deserve that recognition.
 
-## Data should guide decisions
+## 11. Data should guide decisions
 
 Data is often underestimated. Every meaningful initiative needs a way to understand its impact and performance. Metrics need to be collected in a usable form, understood and actually used.
 
@@ -176,13 +176,13 @@ This needs to become part of the culture, not an exercise performed after a deci
 
 AI evaluations follow the same rule as any other production initiative. Quality, cost, latency, reliability and user impact must be measurable so that effort and energy go towards what truly matters.
 
-## Do not avoid difficult conversations or decisions
+## 12. Do not avoid difficult conversations or decisions
 
 Sometimes the most useful way to move forward is to say no. Know when to say it and learn how to explain it. Leadership is not about pleasing everyone or adapting every decision to every individual preference.
 
 Some decisions will be difficult and unpopular. Stay true to your principles, be comfortable defending them and accept responsibility for the consequences.
 
-## There is always another finish line
+## 13. There is always another finish line
 
 Founding a company has no real finish line. A chapter does.
 
@@ -190,4 +190,4 @@ Leaving Tomorro felt like finishing an ultra-trail. You cross the line exhausted
 
 The next morning, you sign up for another one.
 
-My next one was the [Pacific Crest Trail](https://pct.sebdec.com).
+My next one was the [Pacific Crest Trail](https://pct.sebdec.com?utm_source=sebdec&utm_medium=referral&utm_campaign=cto-learnings).
