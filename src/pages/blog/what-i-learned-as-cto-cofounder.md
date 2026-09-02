@@ -10,6 +10,22 @@ For almost 7 years, I built Tomorro, a contract management platform, as cofounde
 
 The experience changed me. I grew, learned a lot and shared the journey with people I loved working with. I learned these lessons by doing, from the people around me, from my team and sometimes by getting things wrong. These are the ones that stayed with me.
 
+## In this post
+
+- [Building a company is an adventure](#building-a-company-is-an-adventure)
+- [Your role must keep evolving](#your-role-must-keep-evolving)
+- [Keep running experiments](#keep-running-experiments)
+- [Clarity is key](#clarity-is-key)
+- [Make room for the team](#make-room-for-the-team)
+- [Build a strong tech culture](#build-a-strong-tech-culture)
+- [Stay close to customers](#stay-close-to-customers)
+- [Embrace AI without overreacting](#embrace-ai-without-overreacting)
+- [Be an enabler, not a blocker](#be-an-enabler-not-a-blocker)
+- [Celebrate the wins](#celebrate-the-wins)
+- [Data should guide decisions](#data-should-guide-decisions)
+- [Do not avoid difficult conversations or decisions](#do-not-avoid-difficult-conversations-or-decisions)
+- [There is always another finish line](#there-is-always-another-finish-line)
+
 ## Building a company is an adventure
 
 And I loved it. It is demanding, all-consuming and exciting. The company is always somewhere in your mind. Every day brings a new subject and many have little to do with tech. That variety is part of what makes the adventure so interesting.
