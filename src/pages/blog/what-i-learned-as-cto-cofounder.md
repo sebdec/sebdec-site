@@ -10,9 +10,8 @@ For almost 7 years, I built Tomorro, a contract management platform, as cofounde
 
 The experience changed me. I grew, learned a lot and shared the journey with people I loved working with. I learned these lessons by doing, from the people around me, from my team and sometimes by getting things wrong. These are the ones that stayed with me.
 
-<nav class="post-toc" aria-labelledby="post-toc-title">
-	<h2 id="post-toc-title">In this post</h2>
-	<ul>
+<nav class="post-toc" aria-label="Table of contents">
+	<ol>
 		<li><a href="#building-a-company-is-an-adventure">Building a company is an adventure</a></li>
 		<li><a href="#your-role-must-keep-evolving">Your role must keep evolving</a></li>
 		<li><a href="#keep-running-experiments">Keep running experiments</a></li>
@@ -26,7 +25,7 @@ The experience changed me. I grew, learned a lot and shared the journey with peo
 		<li><a href="#data-should-guide-decisions">Data should guide decisions</a></li>
 		<li><a href="#do-not-avoid-difficult-conversations-or-decisions">Do not avoid difficult conversations or decisions</a></li>
 		<li><a href="#there-is-always-another-finish-line">There is always another finish line</a></li>
-	</ul>
+	</ol>
 </nav>
 
 ## Building a company is an adventure

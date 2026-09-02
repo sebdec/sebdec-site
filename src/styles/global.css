@@ -236,18 +236,14 @@ a:focus-visible {
 	border-left: 0.125rem solid rgba(125, 183, 255, 0.35);
 }
 
-.post-content .post-toc h2 {
-	margin: 0 0 0.75rem;
-	color: var(--text);
-	font-size: 0.78rem;
-	letter-spacing: 0.01em;
-	text-transform: uppercase;
+.post-toc ol {
+	margin: 0;
+	padding-left: 1.15rem;
 }
 
-.post-toc ul {
-	margin: 0;
-	padding: 0;
-	list-style: none;
+.post-toc li::marker {
+	color: var(--muted);
+	font-size: 0.68rem;
 }
 
 .post-toc li + li {
@@ -281,7 +277,7 @@ a:focus-visible {
 		float: left;
 		width: 14rem;
 		max-height: calc(100vh - 4rem);
-		margin: 0 0 0 -17rem;
+		margin: -14rem 0 0 -17rem;
 		overflow-y: auto;
 	}
 }
